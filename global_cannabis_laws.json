@@ -1,0 +1,19 @@
+{
+  "Germany": {
+    "status": "Medical cannabis legal; recreational partially decriminalized"
+  },
+  "Thailand": {
+    "status": "Decriminalized 2022; medical allowed; recreational discouraged"
+  },
+  "Canada": {
+    "status": "Fully legal since 2018"
+  },
+  "USA": {
+    "status": "Federal ban; varies by state",
+    "states": {
+      "California": "Medical + recreational legal",
+      "Texas": "CBD‑only; recreational illegal",
+      "New York": "Fully legal"
+    }
+  }
+}
